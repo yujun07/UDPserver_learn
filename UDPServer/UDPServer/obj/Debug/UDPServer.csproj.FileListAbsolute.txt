@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.CopyComplete
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+C:\Users\ASUS\source\repos\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
